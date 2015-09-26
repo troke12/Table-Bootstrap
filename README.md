@@ -2,7 +2,7 @@
 HMTL Table with Bootstrap
 ![screenshot] (https://raw.githubusercontent.com/troke12/Table-Bootstrap/master/Screenshot.png)
 ### Demo
-![Live] (http://troke12.github.io/Table-Bootstrap/)
+!(http://troke12.github.io/Table-Bootstrap/)
 ### How-To Add More
 copy this code and find behind `<tbody>` and done
 ```HTML
