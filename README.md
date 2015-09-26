@@ -11,3 +11,5 @@ copy this code and find behind `<tbody>` and done
 			<td><span class="label label-success label-mini">Completed</span></td>
 			<td></td>
 		</tr>
+### Demo
+![Live] (http://troke12.github.io/Table-Bootstrap/)
