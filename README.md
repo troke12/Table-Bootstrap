@@ -1,6 +1,8 @@
 # Table-Bootstrap
 HMTL Table with Bootstrap
 ![screenshot] (https://raw.githubusercontent.com/troke12/Table-Bootstrap/master/Screenshot.png)
+### Demo
+![Live] (http://troke12.github.io/Table-Bootstrap/)
 ### How-To Add More
 copy this code and find behind `<tbody>` and done
 ```HTML
@@ -11,5 +13,3 @@ copy this code and find behind `<tbody>` and done
 			<td><span class="label label-success label-mini">Completed</span></td>
 			<td></td>
 		</tr>
-### Demo
-![Live] (http://troke12.github.io/Table-Bootstrap/)
